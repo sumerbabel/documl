@@ -1,0 +1,10 @@
+@startuml
+class GestorConcreto
+class FiltroSeleccionado
+class AccionDerecha
+Class AccionIzquierda
+Class ComponenteTabla
+class ComponentePaginacion
+class ComponenteListaPaginas
+
+@enduml
